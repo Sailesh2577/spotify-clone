@@ -1,5 +1,3 @@
-import exp from "constants";
-import { type } from "os";
 import Stripe from "stripe";
 
 export interface UserDetails {
